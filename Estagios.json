@@ -1,59 +1,60 @@
 [
-  {
-    "escola": "Escola Superior Agrária",
-    "cursos": [
-      {"nome": "Agronomia"},
-      {"nome": "Biotecnologia"},
-      {"nome": "Enfermagem Veterinária"},
-      {"nome": "Engenharia do Ambiente e Geoinformática"}
-    ]
-  },
-  {
-    "escola": "Escola Superior de Ciências Empresariais",
-    "cursos": [
-      {"nome": "Contabilidade e Fiscalidade"},
-      {"nome": "Gestão da Distribuição e Logística"},
-      {"nome": "Marketing e Comunicação Empresarial"},
-      {"nome": "Organização e Gestão Empresariais"}
-    ]
-  },
-  {
-    "escola": "Escola Superior de Desporto e Lazer",
-    "cursos": [
-      {"nome": "Desporto e Lazer"}
-    ]
-  },
-  {
-    "escola": "Escola Superior de Educação",
-    "cursos": [
-      {"nome": "Artes e Cinema Digital"},
-      {"nome": "Artes Plásticas e Tecnologias Artísticas"},
-      {"nome": "Educação Básica"},
-      {"nome": "Educação Social Gerontológica"}
-    ]
-  },
-  {
-    "escola": "Escola Superior de Saúde",
-    "cursos": [
-      {"nome": "Enfermagem"}
-    ]
-  },
-  {
-    "escola": "Escola Superior de Tecnologia e Gestão",
-    "cursos": [
-      {"nome": "Design de Ambientes"},
-      {"nome": "Design do Produto"},
-      {"nome": "Engenharia Alimentar"},
-      {"nome": "Engenharia Civil e do Ambiente"},
-      {"nome": "Engenharia da Computação Gráfica e Multimédia"},
-      {"nome": "Engenharia Informática"},
-      {"nome": "Engenharia Mecânica"},
-      {"nome": "Engenharia Mecatrónica"},
-      {"nome": "Engenharia de Redes e Sistemas de Computadores"},
-      {"nome": "Gastronomia e Artes Culinárias"},
-      {"nome": "Gestão"},
-      {"nome": "Gestão (regime noturno)"},
-      {"nome": "Turismo"}
-    ]
-  }
-]
+    {
+      "escola": "Escola Superior Agrária",
+      "cursos": [
+        {"nome": "Agronomia"},
+        {"nome": "Biotecnologia"},
+        {"nome": "Enfermagem Veterinária"},
+        {"nome": "Engenharia do Ambiente e Geoinformática"}
+      ]
+    },
+    {
+      "escola": "Escola Superior de Ciências Empresariais",
+      "cursos": [
+        {"nome": "Contabilidade e Fiscalidade"},
+        {"nome": "Gestão da Distribuição e Logística"},
+        {"nome": "Marketing e Comunicação Empresarial"},
+        {"nome": "Organização e Gestão Empresariais"}
+      ]
+    },
+    {
+      "escola": "Escola Superior de Desporto e Lazer",
+      "cursos": [
+        {"nome": "Desporto e Lazer"}
+      ]
+    },
+    {
+      "escola": "Escola Superior de Educação",
+      "cursos": [
+        {"nome": "Artes e Cinema Digital"},
+        {"nome": "Artes Plásticas e Tecnologias Artísticas"},
+        {"nome": "Educação Básica"},
+        {"nome": "Educação Social Gerontológica"}
+      ]
+    },
+    {
+      "escola": "Escola Superior de Saúde",
+      "cursos": [
+        {"nome": "Enfermagem"}
+      ]
+    },
+    {
+      "escola": "Escola Superior de Tecnologia e Gestão",
+      "cursos": [
+        {"nome": "Design de Ambientes"},
+        {"nome": "Design do Produto"},
+        {"nome": "Engenharia Alimentar"},
+        {"nome": "Engenharia Civil e do Ambiente"},
+        {"nome": "Engenharia da Computação Gráfica e Multimédia"},
+        {"nome": "Engenharia Informática"},
+        {"nome": "Engenharia Mecânica"},
+        {"nome": "Engenharia Mecatrónica"},
+        {"nome": "Engenharia de Redes e Sistemas de Computadores"},
+        {"nome": "Gastronomia e Artes Culinárias"},
+        {"nome": "Gestão"},
+        {"nome": "Gestão (regime noturno)"},
+        {"nome": "Turismo"}
+      ]
+    }
+  ]
+  
