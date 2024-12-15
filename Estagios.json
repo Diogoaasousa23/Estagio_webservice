@@ -128,8 +128,7 @@
         {
             "nome": "Design de Ambientes",
             "locaisEstagio": [
-                { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6965, "longitude": -8.8338 },
-                { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7665, "longitude": -8.5865 }
+                { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6965, "longitude": -8.8338 }
             ]
         },
         {
@@ -142,7 +141,6 @@
         {
             "nome": "Engenharia Alimentar",
             "locaisEstagio": [
-                { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6967, "longitude": -8.8342 },
                 { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0797, "longitude": -8.4835 }
             ]
         },
@@ -157,7 +155,6 @@
             "nome": "Engenharia da Computação Gráfica e Multimédia",
             "locaisEstagio": [
                 { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7685, "longitude": -8.5838 },
-                { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6969, "longitude": -8.8352 }
             ]
         },
         {
@@ -170,15 +167,13 @@
         {
             "nome": "Engenharia Mecânica",
             "locaisEstagio": [
-                { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8475, "longitude": -8.4193 },
-                { "nome": "Indústria Mecânica - Monção", "latitude": 42.0795, "longitude": -8.4840 }
+                { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8475, "longitude": -8.4193 }
             ]
         },
         {
             "nome": "Engenharia Mecatrónica",
             "locaisEstagio": [
                 { "nome": "Fábrica Robótica - Valença", "latitude": 42.0347, "longitude": -8.6462 },
-                { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6971, "longitude": -8.8354 }
             ]
         },
         {
@@ -205,7 +200,6 @@
         {
             "nome": "Gestão (regime noturno)",
             "locaisEstagio": [
-                { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6975, "longitude": -8.8346 },
                 { "nome": "Consultoria Financeira - Valença", "latitude": 42.0337, "longitude": -8.6463 }
             ]
         },
