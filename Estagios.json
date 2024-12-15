@@ -128,92 +128,92 @@
         {
             "nome": "Design de Ambientes",
             "locaisEstagio": [
-                { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6963, "longitude": -8.8340 },
-                { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7650, "longitude": -8.5860 }
+                { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6965, "longitude": -8.8338 },
+                { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7665, "longitude": -8.5865 }
             ]
         },
         {
             "nome": "Design do Produto",
             "locaisEstagio": [
-                { "nome": "Fábrica de Protótipos - Arcos de Valdevez", "latitude": 41.8470, "longitude": -8.4180 },
-                { "nome": "Ateliê de Inovação - Caminha", "latitude": 41.8770, "longitude": -8.8370 }
+                { "nome": "Fábrica de Protótipos - Arcos de Valdevez", "latitude": 41.8468, "longitude": -8.4185 },
+                { "nome": "Ateliê de Inovação - Caminha", "latitude": 41.8773, "longitude": -8.8363 }
             ]
         },
         {
             "nome": "Engenharia Alimentar",
             "locaisEstagio": [
-                { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6965, "longitude": -8.8345 },
-                { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0795, "longitude": -8.4830 }
+                { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6967, "longitude": -8.8342 },
+                { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0797, "longitude": -8.4835 }
             ]
         },
         {
             "nome": "Engenharia Civil e do Ambiente",
             "locaisEstagio": [
-                { "nome": "Empresa de Construção - Valença", "latitude": 42.0340, "longitude": -8.6460 },
-                { "nome": "Gabinete Ambiental - Melgaço", "latitude": 42.1150, "longitude": -8.2610 }
+                { "nome": "Empresa de Construção - Valença", "latitude": 42.0345, "longitude": -8.6465 },
+                { "nome": "Gabinete Ambiental - Melgaço", "latitude": 42.1155, "longitude": -8.2615 }
             ]
         },
         {
             "nome": "Engenharia da Computação Gráfica e Multimédia",
             "locaisEstagio": [
-                { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7680, "longitude": -8.5840 },
-                { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6955, "longitude": -8.8346 }
+                { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7685, "longitude": -8.5838 },
+                { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6969, "longitude": -8.8352 }
             ]
         },
         {
             "nome": "Engenharia Informática",
             "locaisEstagio": [
-                { "nome": "Centro Tecnológico - Viana do Castelo", "latitude": 41.6965, "longitude": -8.8348 },
-                { "nome": "Empresa de TI - Caminha", "latitude": 41.8760, "longitude": -8.8360 }
+                { "nome": "Centro Tecnológico - Viana do Castelo", "latitude": 41.6970, "longitude": -8.8343 },
+                { "nome": "Empresa de TI - Caminha", "latitude": 41.8765, "longitude": -8.8359 }
             ]
         },
         {
             "nome": "Engenharia Mecânica",
             "locaisEstagio": [
-                { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8475, "longitude": -8.4190 },
-                { "nome": "Indústria Mecânica - Monção", "latitude": 42.0790, "longitude": -8.4835 }
+                { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8475, "longitude": -8.4193 },
+                { "nome": "Indústria Mecânica - Monção", "latitude": 42.0795, "longitude": -8.4840 }
             ]
         },
         {
             "nome": "Engenharia Mecatrónica",
             "locaisEstagio": [
-                { "nome": "Fábrica Robótica - Valença", "latitude": 42.0345, "longitude": -8.6455 },
-                { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6964, "longitude": -8.8349 }
+                { "nome": "Fábrica Robótica - Valença", "latitude": 42.0347, "longitude": -8.6462 },
+                { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6971, "longitude": -8.8354 }
             ]
         },
         {
             "nome": "Engenharia de Redes e Sistemas de Computadores",
             "locaisEstagio": [
-                { "nome": "Provedor de Internet - Caminha", "latitude": 41.8760, "longitude": -8.8362 },
-                { "nome": "Empresa de Redes - Viana do Castelo", "latitude": 41.6964, "longitude": -8.8348 }
+                { "nome": "Provedor de Internet - Caminha", "latitude": 41.8775, "longitude": -8.8360 },
+                { "nome": "Empresa de Redes - Viana do Castelo", "latitude": 41.6972, "longitude": -8.8349 }
             ]
         },
         {
             "nome": "Gastronomia e Artes Culinárias",
             "locaisEstagio": [
-                { "nome": "Restaurante Tradicional - Ponte de Lima", "latitude": 41.7685, "longitude": -8.5845 },
-                { "nome": "Escola de Cozinha - Viana do Castelo", "latitude": 41.6962, "longitude": -8.8346 }
+                { "nome": "Restaurante Tradicional - Ponte de Lima", "latitude": 41.7687, "longitude": -8.5840 },
+                { "nome": "Escola de Cozinha - Viana do Castelo", "latitude": 41.6973, "longitude": -8.8345 }
             ]
         },
         {
             "nome": "Gestão",
             "locaisEstagio": [
-                { "nome": "Consultoria Empresarial - Monção", "latitude": 42.0795, "longitude": -8.4820 },
-                { "nome": "Startup de Negócios - Ponte da Barca", "latitude": 41.8055, "longitude": -8.4183 }
+                { "nome": "Consultoria Empresarial - Monção", "latitude": 42.0799, "longitude": -8.4845 },
+                { "nome": "Startup de Negócios - Ponte da Barca", "latitude": 41.8060, "longitude": -8.4185 }
             ]
         },
         {
             "nome": "Gestão (regime noturno)",
             "locaisEstagio": [
-                { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6964, "longitude": -8.8347 },
-                { "nome": "Consultoria Financeira - Valença", "latitude": 42.0335, "longitude": -8.6459 }
+                { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6975, "longitude": -8.8346 },
+                { "nome": "Consultoria Financeira - Valença", "latitude": 42.0337, "longitude": -8.6463 }
             ]
         },
         {
             "nome": "Turismo",
             "locaisEstagio": [
-                { "nome": "Agência de Turismo - Caminha", "latitude": 41.8772, "longitude": -8.8364 },
-                { "nome": "Hotel Boutique - Arcos de Valdevez", "latitude": 41.8470, "longitude": -8.4170 }
+                { "nome": "Agência de Turismo - Caminha", "latitude": 41.8780, "longitude": -8.8365 },
+                { "nome": "Hotel Boutique - Arcos de Valdevez", "latitude": 41.8478, "longitude": -8.4175 }
             ]
         }
     ]
