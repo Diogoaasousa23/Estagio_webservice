@@ -1,6 +1,6 @@
 [
   {
-    "escola": "Escola Superior Agrária",
+    "escola": "ESA",
     "cursos": [
       {
         "nome": "Agronomia",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "escola": "Escola Superior de Ciências Empresariais",
+    "escola": "ESCE",
     "cursos": [
       {
         "nome": "Contabilidade e Fiscalidade",
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "escola": "Escola Superior de Desporto e Lazer",
+    "escola": "ESDL",
     "cursos": [
       {
         "nome": "Desporto e Lazer",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "escola": "Escola Superior de Educação",
+    "escola": "ESE",
     "cursos": [
       {
         "nome": "Artes e Cinema Digital",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "escola": "Escola Superior de Saúde",
+    "escola": "ESS",
     "cursos": [
       {
         "nome": "Enfermagem",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "escola": "Escola Superior de Tecnologia e Gestão",
+    "escola": "ESTG",
     "cursos": [
         {
             "nome": "Design de Ambientes",
