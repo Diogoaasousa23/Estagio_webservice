@@ -128,17 +128,95 @@
       {
         "nome": "Design de Ambientes",
         "locaisEstagio": [
-          { "nome": "Estúdio de Design Porto", "latitude": 41.1598, "longitude": -8.6291 },
-          { "nome": "Centro Criativo Braga", "latitude": 41.5548, "longitude": -8.4205 }
+          { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
+          { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 }
+        ]
+      },
+      {
+        "nome": "Design do Produto",
+        "locaisEstagio": [
+          { "nome": "Fábrica de Protótipos - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 },
+          { "nome": "Ateliê de Inovação - Caminha", "latitude": 41.8754, "longitude": -8.8356 }
+        ]
+      },
+      {
+        "nome": "Engenharia Alimentar",
+        "locaisEstagio": [
+          { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
+          { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0789, "longitude": -8.4814 }
+        ]
+      },
+      {
+        "nome": "Engenharia Civil e do Ambiente",
+        "locaisEstagio": [
+          { "nome": "Empresa de Construção - Valença", "latitude": 42.0319, "longitude": -8.6455 },
+          { "nome": "Gabinete Ambiental - Melgaço", "latitude": 42.1130, "longitude": -8.2603 }
+        ]
+      },
+      {
+        "nome": "Engenharia da Computação Gráfica e Multimédia",
+        "locaisEstagio": [
+          { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 },
+          { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
         ]
       },
       {
         "nome": "Engenharia Informática",
         "locaisEstagio": [
-          { "nome": "Empresa de Software Braga", "latitude": 41.548, "longitude": -8.4222 },
-          { "nome": "Startup Porto", "latitude": 41.1579, "longitude": -8.6291 }
+          { "nome": "Centro Tecnológico - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
+          { "nome": "Empresa de TI - Caminha", "latitude": 41.8754, "longitude": -8.8356 }
+        ]
+      },
+      {
+        "nome": "Engenharia Mecânica",
+        "locaisEstagio": [
+          { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 },
+          { "nome": "Indústria Mecânica - Monção", "latitude": 42.0789, "longitude": -8.4814 }
+        ]
+      },
+      {
+        "nome": "Engenharia Mecatrónica",
+        "locaisEstagio": [
+          { "nome": "Fábrica Robótica - Valença", "latitude": 42.0319, "longitude": -8.6455 },
+          { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+        ]
+      },
+      {
+        "nome": "Engenharia de Redes e Sistemas de Computadores",
+        "locaisEstagio": [
+          { "nome": "Provedor de Internet - Caminha", "latitude": 41.8754, "longitude": -8.8356 },
+          { "nome": "Empresa de Redes - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+        ]
+      },
+      {
+        "nome": "Gastronomia e Artes Culinárias",
+        "locaisEstagio": [
+          { "nome": "Restaurante Tradicional - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 },
+          { "nome": "Escola de Cozinha - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+        ]
+      },
+      {
+        "nome": "Gestão",
+        "locaisEstagio": [
+          { "nome": "Consultoria Empresarial - Monção", "latitude": 42.0789, "longitude": -8.4814 },
+          { "nome": "Startup de Negócios - Ponte da Barca", "latitude": 41.8048, "longitude": -8.4180 }
+        ]
+      },
+      {
+        "nome": "Gestão (regime noturno)",
+        "locaisEstagio": [
+          { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
+          { "nome": "Consultoria Financeira - Valença", "latitude": 42.0319, "longitude": -8.6455 }
+        ]
+      },
+      {
+        "nome": "Turismo",
+        "locaisEstagio": [
+          { "nome": "Agência de Turismo - Caminha", "latitude": 41.8754, "longitude": -8.8356 },
+          { "nome": "Hotel Boutique - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 }
         ]
       }
     ]
   }
 ]
+
