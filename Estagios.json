@@ -6,28 +6,28 @@
         "nome": "Agronomia",
         "locaisEstagio": [
           { "nome": "Estação Agrária de Braga", "latitude": 41.5497, "longitude": -8.4272 },
-          { "nome": "Cooperativa Agrícola de Barcelos", "latitude": 41.5382, "longitude": -8.6151 }
+          { "nome": "Cooperativa Agrícola de Barcelos", "latitude": 41.5385, "longitude": -8.6153 }
         ]
       },
       {
         "nome": "Biotecnologia",
         "locaisEstagio": [
-          { "nome": "BioLab Braga", "latitude": 41.555, "longitude": -8.426 },
-          { "nome": "Centro de Biotecnologia de Vila Real", "latitude": 41.2934, "longitude": -7.7466 }
+          { "nome": "BioLab Braga", "latitude": 41.5553, "longitude": -8.4263 },
+          { "nome": "Centro de Biotecnologia de Vila Real", "latitude": 41.2936, "longitude": -7.7464 }
         ]
       },
       {
         "nome": "Enfermagem Veterinária",
         "locaisEstagio": [
-          { "nome": "Hospital Veterinário de Braga", "latitude": 41.543, "longitude": -8.429 },
-          { "nome": "Clínica Veterinária de Guimarães", "latitude": 41.4442, "longitude": -8.2962 }
+          { "nome": "Hospital Veterinário de Braga", "latitude": 41.5432, "longitude": -8.4291 },
+          { "nome": "Clínica Veterinária de Guimarães", "latitude": 41.4444, "longitude": -8.2965 }
         ]
       },
       {
         "nome": "Engenharia do Ambiente e Geoinformática",
         "locaisEstagio": [
-          { "nome": "Câmara Municipal de Vila Verde", "latitude": 41.6463, "longitude": -8.4371 },
-          { "nome": "Agência de Ambiente de Viana do Castelo", "latitude": 41.6918, "longitude": -8.8345 }
+          { "nome": "Câmara Municipal de Vila Verde", "latitude": 41.6464, "longitude": -8.4373 },
+          { "nome": "Agência de Ambiente de Viana do Castelo", "latitude": 41.6920, "longitude": -8.8346 }
         ]
       }
     ]
@@ -38,29 +38,29 @@
       {
         "nome": "Contabilidade e Fiscalidade",
         "locaisEstagio": [
-          { "nome": "Empresa de Contabilidade Porto", "latitude": 41.1496, "longitude": -8.6109 },
-          { "nome": "Consultoria Fiscal Braga", "latitude": 41.5482, "longitude": -8.4222 }
+          { "nome": "Empresa de Contabilidade Porto", "latitude": 41.1497, "longitude": -8.6110 },
+          { "nome": "Consultoria Fiscal Braga", "latitude": 41.5484, "longitude": -8.4224 }
         ]
       },
       {
         "nome": "Gestão da Distribuição e Logística",
         "locaisEstagio": [
-          { "nome": "Centro Logístico Maia", "latitude": 41.2357, "longitude": -8.619 },
-          { "nome": "Armazém Logístico de Guimarães", "latitude": 41.4523, "longitude": -8.2894 }
+          { "nome": "Centro Logístico Maia", "latitude": 41.2358, "longitude": -8.6192 },
+          { "nome": "Armazém Logístico de Guimarães", "latitude": 41.4525, "longitude": -8.2895 }
         ]
       },
       {
         "nome": "Marketing e Comunicação Empresarial",
         "locaisEstagio": [
-          { "nome": "Agência de Marketing Porto", "latitude": 41.1523, "longitude": -8.611 },
-          { "nome": "Startup Braga", "latitude": 41.5503, "longitude": -8.4201 }
+          { "nome": "Agência de Marketing Porto", "latitude": 41.1524, "longitude": -8.6112 },
+          { "nome": "Startup Braga", "latitude": 41.5505, "longitude": -8.4203 }
         ]
       },
       {
         "nome": "Organização e Gestão Empresariais",
         "locaisEstagio": [
-          { "nome": "Empresa ABC Braga", "latitude": 41.5478, "longitude": -8.421 },
-          { "nome": "Consultoria Empresarial Porto", "latitude": 41.1509, "longitude": -8.6142 }
+          { "nome": "Empresa ABC Braga", "latitude": 41.5480, "longitude": -8.4211 },
+          { "nome": "Consultoria Empresarial Porto", "latitude": 41.1509, "longitude": -8.6144 }
         ]
       }
     ]
@@ -71,8 +71,8 @@
       {
         "nome": "Desporto e Lazer",
         "locaisEstagio": [
-          { "nome": "Ginásio PortoFit", "latitude": 41.1605, "longitude": -8.611 },
-          { "nome": "Complexo Desportivo Braga", "latitude": 41.5471, "longitude": -8.4259 }
+          { "nome": "Ginásio PortoFit", "latitude": 41.1607, "longitude": -8.6115 },
+          { "nome": "Complexo Desportivo Braga", "latitude": 41.5473, "longitude": -8.4260 }
         ]
       }
     ]
@@ -83,29 +83,29 @@
       {
         "nome": "Artes e Cinema Digital",
         "locaisEstagio": [
-          { "nome": "Estúdio Cinematográfico Porto", "latitude": 41.1579, "longitude": -8.6291 },
-          { "nome": "Estúdio Braga Film", "latitude": 41.5548, "longitude": -8.4205 }
+          { "nome": "Estúdio Cinematográfico Porto", "latitude": 41.1580, "longitude": -8.6293 },
+          { "nome": "Estúdio Braga Film", "latitude": 41.5550, "longitude": -8.4207 }
         ]
       },
       {
         "nome": "Artes Plásticas e Tecnologias Artísticas",
         "locaisEstagio": [
-          { "nome": "Museu de Serralves", "latitude": 41.1596, "longitude": -8.6593 },
-          { "nome": "Centro de Artes de Guimarães", "latitude": 41.4419, "longitude": -8.2955 }
+          { "nome": "Museu de Serralves", "latitude": 41.1598, "longitude": -8.6595 },
+          { "nome": "Centro de Artes de Guimarães", "latitude": 41.4420, "longitude": -8.2956 }
         ]
       },
       {
         "nome": "Educação Básica",
         "locaisEstagio": [
-          { "nome": "Escola Primária de Braga", "latitude": 41.5532, "longitude": -8.428 },
-          { "nome": "Escola Primária do Porto", "latitude": 41.1495, "longitude": -8.6136 }
+          { "nome": "Escola Primária de Braga", "latitude": 41.5533, "longitude": -8.4281 },
+          { "nome": "Escola Primária do Porto", "latitude": 41.1496, "longitude": -8.6137 }
         ]
       },
       {
         "nome": "Educação Social Gerontológica",
         "locaisEstagio": [
-          { "nome": "Lar de Idosos Braga", "latitude": 41.5505, "longitude": -8.426 },
-          { "nome": "Centro de Dia Porto", "latitude": 41.1515, "longitude": -8.6142 }
+          { "nome": "Lar de Idosos Braga", "latitude": 41.5506, "longitude": -8.4261 },
+          { "nome": "Centro de Dia Porto", "latitude": 41.1516, "longitude": -8.6143 }
         ]
       }
     ]
@@ -116,8 +116,8 @@
       {
         "nome": "Enfermagem",
         "locaisEstagio": [
-          { "nome": "Hospital de Braga", "latitude": 41.5503, "longitude": -8.425 },
-          { "nome": "Hospital São João Porto", "latitude": 41.1785, "longitude": -8.6061 }
+          { "nome": "Hospital de Braga", "latitude": 41.5504, "longitude": -8.4251 },
+          { "nome": "Hospital São João Porto", "latitude": 41.1786, "longitude": -8.6062 }
         ]
       }
     ]
@@ -128,95 +128,94 @@
       {
         "nome": "Design de Ambientes",
         "locaisEstagio": [
-          { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
-          { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 }
+          { "nome": "Estúdio Criativo - Viana do Castelo", "latitude": 41.6963, "longitude": -8.8347 },
+          { "nome": "Agência de Design - Ponte de Lima", "latitude": 41.7675, "longitude": -8.5835 }
         ]
       },
       {
         "nome": "Design do Produto",
         "locaisEstagio": [
-          { "nome": "Fábrica de Protótipos - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 },
-          { "nome": "Ateliê de Inovação - Caminha", "latitude": 41.8754, "longitude": -8.8356 }
+          { "nome": "Fábrica de Protótipos - Arcos de Valdevez", "latitude": 41.8460, "longitude": -8.4168 },
+          { "nome": "Ateliê de Inovação - Caminha", "latitude": 41.8755, "longitude": -8.8357 }
         ]
       },
       {
         "nome": "Engenharia Alimentar",
         "locaisEstagio": [
-          { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
-          { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0789, "longitude": -8.4814 }
+          { "nome": "Indústria Alimentar - Viana do Castelo", "latitude": 41.6962, "longitude": -8.8346 },
+          { "nome": "Laboratório de Qualidade - Monção", "latitude": 42.0790, "longitude": -8.4815 }
         ]
       },
       {
         "nome": "Engenharia Civil e do Ambiente",
         "locaisEstagio": [
-          { "nome": "Empresa de Construção - Valença", "latitude": 42.0319, "longitude": -8.6455 },
-          { "nome": "Gabinete Ambiental - Melgaço", "latitude": 42.1130, "longitude": -8.2603 }
+          { "nome": "Empresa de Construção - Valença", "latitude": 42.0320, "longitude": -8.6456 },
+          { "nome": "Gabinete Ambiental - Melgaço", "latitude": 42.1131, "longitude": -8.2604 }
         ]
       },
       {
         "nome": "Engenharia da Computação Gráfica e Multimédia",
         "locaisEstagio": [
-          { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 },
-          { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+          { "nome": "Startup de Software - Ponte de Lima", "latitude": 41.7675, "longitude": -8.5835 },
+          { "nome": "Empresa de Multimédia - Viana do Castelo", "latitude": 41.6962, "longitude": -8.8346 }
         ]
       },
       {
         "nome": "Engenharia Informática",
         "locaisEstagio": [
-          { "nome": "Centro Tecnológico - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
-          { "nome": "Empresa de TI - Caminha", "latitude": 41.8754, "longitude": -8.8356 }
+          { "nome": "Centro Tecnológico - Viana do Castelo", "latitude": 41.6963, "longitude": -8.8347 },
+          { "nome": "Empresa de TI - Caminha", "latitude": 41.8755, "longitude": -8.8358 }
         ]
       },
       {
         "nome": "Engenharia Mecânica",
         "locaisEstagio": [
-          { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 },
-          { "nome": "Indústria Mecânica - Monção", "latitude": 42.0789, "longitude": -8.4814 }
+          { "nome": "Fábrica de Máquinas - Arcos de Valdevez", "latitude": 41.8460, "longitude": -8.4168 },
+          { "nome": "Indústria Mecânica - Monção", "latitude": 42.0790, "longitude": -8.4815 }
         ]
       },
       {
         "nome": "Engenharia Mecatrónica",
         "locaisEstagio": [
-          { "nome": "Fábrica Robótica - Valença", "latitude": 42.0319, "longitude": -8.6455 },
-          { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+          { "nome": "Fábrica Robótica - Valença", "latitude": 42.0320, "longitude": -8.6456 },
+          { "nome": "Empresa de Automação - Viana do Castelo", "latitude": 41.6963, "longitude": -8.8347 }
         ]
       },
       {
         "nome": "Engenharia de Redes e Sistemas de Computadores",
         "locaisEstagio": [
-          { "nome": "Provedor de Internet - Caminha", "latitude": 41.8754, "longitude": -8.8356 },
-          { "nome": "Empresa de Redes - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+          { "nome": "Provedor de Internet - Caminha", "latitude": 41.8755, "longitude": -8.8358 },
+          { "nome": "Empresa de Redes - Viana do Castelo", "latitude": 41.6963, "longitude": -8.8347 }
         ]
       },
       {
         "nome": "Gastronomia e Artes Culinárias",
         "locaisEstagio": [
-          { "nome": "Restaurante Tradicional - Ponte de Lima", "latitude": 41.7674, "longitude": -8.5834 },
-          { "nome": "Escola de Cozinha - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 }
+          { "nome": "Restaurante Tradicional - Ponte de Lima", "latitude": 41.7675, "longitude": -8.5835 },
+          { "nome": "Escola de Cozinha - Viana do Castelo", "latitude": 41.6962, "longitude": -8.8346 }
         ]
       },
       {
         "nome": "Gestão",
         "locaisEstagio": [
-          { "nome": "Consultoria Empresarial - Monção", "latitude": 42.0789, "longitude": -8.4814 },
-          { "nome": "Startup de Negócios - Ponte da Barca", "latitude": 41.8048, "longitude": -8.4180 }
+          { "nome": "Consultoria Empresarial - Monção", "latitude": 42.0790, "longitude": -8.4815 },
+          { "nome": "Startup de Negócios - Ponte da Barca", "latitude": 41.8049, "longitude": -8.4181 }
         ]
       },
       {
         "nome": "Gestão (regime noturno)",
         "locaisEstagio": [
-          { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6961, "longitude": -8.8345 },
-          { "nome": "Consultoria Financeira - Valença", "latitude": 42.0319, "longitude": -8.6455 }
+          { "nome": "Empresa de Planeamento - Viana do Castelo", "latitude": 41.6962, "longitude": -8.8346 },
+          { "nome": "Consultoria Financeira - Valença", "latitude": 42.0320, "longitude": -8.6456 }
         ]
       },
       {
         "nome": "Turismo",
         "locaisEstagio": [
-          { "nome": "Agência de Turismo - Caminha", "latitude": 41.8754, "longitude": -8.8356 },
-          { "nome": "Hotel Boutique - Arcos de Valdevez", "latitude": 41.8459, "longitude": -8.4167 }
+          { "nome": "Agência de Turismo - Caminha", "latitude": 41.8755, "longitude": -8.8358 },
+          { "nome": "Hotel Boutique - Arcos de Valdevez", "latitude": 41.8460, "longitude": -8.4168 }
         ]
       }
     ]
   }
 ]
-
